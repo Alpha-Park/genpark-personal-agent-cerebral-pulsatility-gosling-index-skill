@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-cerebral-pulsatility-gosling-index-skill",
+  "version": "1.0.0",
+  "description": "Zero-dependency sovereign personal agent skill for evaluating Transcranial Doppler Gosling Pulsatility Index (PI), Pourcelot Resistance Index (RI), and cerebral microvascular resistance.",
+  "author": "AlphaPark Inc.",
+  "license": "Apache-2.0",
+  "entrypoint": "client.py",
+  "mcp_server": "mcp_server.py",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ]
+}
